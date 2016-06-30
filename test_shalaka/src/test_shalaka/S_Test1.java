@@ -6,6 +6,7 @@ public class S_Test1 {
 		System.out.println("Test");
           S_Test2 s1 = new S_Test2();
 System.out.println("New feature");
+System.out.println("Added via eclipse in my feature");
 	}
 
 }
